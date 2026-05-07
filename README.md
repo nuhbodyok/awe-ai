@@ -275,15 +275,9 @@ These are **UI‑ and client‑focused** or “AI‑OS”‑style lists.
 These sit in the “workflow‑specialized‑agent” slot.
 
 - [jaktestowac/awesome-copilot-for-testers](https://github.com/jaktestowac/awesome-copilot-for-testers) – Copilot‑for‑testers tools.  
-- [jaktestowac/awesome-copilot-for-testers](https://github.com/jaktestowac/awesome-copilot-for-testers) – Another copilot‑for‑testers catalog.  
 - [projectrecon/awesome-ai-agents-security](https://github.com/projectrecon/awesome-ai-agents-security) – AI‑agent‑security workflows.  
 - [wearetyomsmnv/awesome-llm-agent-security](https://github.com/wearetyomsmnv/awesome-llm-agent-security) – LLM‑agent‑security tools.  
 - [riccardobiosas/awesome-mlsecops](https://github.com/riccardobiosas/awesome-mlsecops) – ML‑SecOps style workflows.  
-- [riccardobiosas/awesome-mlsecops](https://github.com/riccardobiosas/awesome-mlsecops) – Another ML‑SecOps list.  
-- [riccardobiosas/awesome-mlsecops](https://github.com/riccardobiosas/awesome-mlsecops) – Yet another ML‑SecOps collection.  
-- [riccardobiosas/awesome-mlsecops](https://github.com/riccardobiosas/awesome-mlsecops) – Finally, one more ML‑SecOps catalog.  
-- [riccardobiosas/awesome-mlsecops](https://github.com/riccardobiosas/awesome-mlsecops) – Last ML‑SecOps list.  
-- [riccardobiosas/awesome-mlsecops](https://github.com/riccardobiosas/awesome-mlsecops) – Last ML‑SecOps collection.  
 
 ---
 
@@ -295,12 +289,7 @@ These are the “misc‑but‑still‑useful” awesome‑style lists that don�
 - [skywind3000/awesome-fish](https://github.com/skywind3000/awesome-fish) – Another Fish‑shell list.  
 - [xjywhu/awesome-multimodal-llm-for-code](https://github.com/xjywhu/awesome-multimodal-llm-for-code) – Multimodal‑LLM‑for‑code.  
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) – System‑prompt‑and‑model‑catalog.  
-- [zho/awesome-llm‑scientiﬁc‑discovery](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery) – LLM‑scientific‑discovery.  
-- [zho/awesome-llm‑scientiﬁc‑discovery](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery) – Another LLM‑scientific‑discovery collection.  
-- [zho/awesome-llm‑scientiﬁc‑discovery](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery) – Yet another LLM‑scientific‑discovery list.  
-- [zho/awesome-llm‑scientiﬁc‑discovery](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery) – Finally, last LLM‑scientific‑discovery catalog.  
-- [zho/awesome-llm‑scientiﬁc‑discovery](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery) – Last LLM‑scientific‑discovery collection.  
-- [zho/awesome-llm‑scientiﬁc‑discovery](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery) – Last LLM‑scientific‑discovery list.  
+- [zho/awesome-llm‑scientiﬁc‑discovery](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery) – LLM‑scientific‑discovery.   
 
 ---
 
